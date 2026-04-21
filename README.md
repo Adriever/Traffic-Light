@@ -6,3 +6,4 @@ Added pedetrian button and LED, as well as pedestrian button and LED variables
 Made pedestrian button turn both lights red and turn pedestrian light on for a timed amount
 Made pedestrian light flip whichever green light was initially on once pedestrian light timer is done
 Extended pedestrian light time and reduced pedestrian light changing time
+Ready to be graded
